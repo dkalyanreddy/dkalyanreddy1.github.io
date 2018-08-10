@@ -4,7 +4,7 @@ title: Kalyan Reddy
 subtitle: Analyst, Architect
 ---
 
-###**Info**
+### Info
 * Kalyan Reddy
 * Hyderabad, India
 * Career
@@ -14,4 +14,4 @@ subtitle: Analyst, Architect
 
 ### Bio
 
-Kalyan Reddy is a Infrastructure Architect on Cloud Native at ZetaOpt. 
+ Kalyan Reddy is a Infrastructure Architect on Cloud Native at ZetaOpt. 
